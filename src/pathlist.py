@@ -1,0 +1,3 @@
+EFpath=''
+NDVIpath=''
+gfrfilepath = ''
